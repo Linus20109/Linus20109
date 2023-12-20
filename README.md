@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Linus!
 - 👀 I love Linux, and is currently learning python.
-- 🧑‍💻 I use Elementary Os on my laptop and Endeavour Os on my PC
+- 🧑‍💻 I use Elementary OS on my laptop and Endeavour OS on my PC
 
 <!---
 Linus20109/Linus20109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
