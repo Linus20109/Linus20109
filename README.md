@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Linus!
-- 👀 I love Linux, and is currently learning python.
+- 👀 I love Linux, and am currently learning python.
 - 🧑‍💻 I use Elementary OS on my laptop and Endeavour OS on my PC
 
 <!---
